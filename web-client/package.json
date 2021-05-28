@@ -14,7 +14,7 @@
     "babel-runtime": "^6.26.0",
     "chinese-to-pinyin": "^0.1.6",
     "md5": "^2.2.1",
-    "tinymce": "^4.8.4",
+    "tinymce": "^5.7.1",
     "vue": "^2.2.2",
     "vue-quill-editor": "^3.0.6",
     "vue-router": "^2.3.0",
